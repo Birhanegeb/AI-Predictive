@@ -1,0 +1,7 @@
+# Virtual environment
+venv/
+.venv/
+
+# ML models
+models/*
+!models/.gitkeep

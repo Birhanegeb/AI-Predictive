@@ -53,8 +53,7 @@ run. See the full list below.
 
 ## What gets saved to `assets/`
 
-Because of notbook sisze is large, Girhub can not display the image outputs for every cell. It either make the notebook invalid or invisible, to solve this all visualization figures from EDA to Data processing are saved to /assets. and all models and model related visualizations are saved in /models
-
+Because of notbook sisze is large, Girhub can not display the image outputs for every cell. It either make the notebook invalid or invisible, to solve this all visualization figures from EDA to Data processing are saved to /assets. Models are saved in /models 
 ## Pipeline overview
 
 1. **EDA** — shape, dtypes, missing values, duplicates, univariate and
