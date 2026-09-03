@@ -1,4 +1,4 @@
-# Predictive Maintenance — EDA, Preprocessing & Classification
+# Predictive Maintenance - EDA, Preprocessing & Classification
 
 Predicts machine failure (`Target`: 1 = fail, 0 = not fail) and failure type
 from a synthetic industrial sensor dataset, covering EDA, preprocessing, and
@@ -67,4 +67,4 @@ Because of notbook sisze is large, Girhub can not display the image outputs for 
    matrices, feature importance, decision boundaries, ROC curves
 ## Contributors
 
-- Birhane
+- Birhane, Msc. Data Engineering Student
