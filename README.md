@@ -184,8 +184,8 @@ Additional plots are available in [`assets/`](assets/), including pair plots, mi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Birhanegeb/AI-Predictive.git
-cd AI-Predictive
+git clone https://github.com/Birhanegeb/AI-Predictive-Maintenance.git
+cd AI-Predictive-Maintenance
 ```
 
 ### 2. Create and activate a virtual environment
