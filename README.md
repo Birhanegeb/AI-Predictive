@@ -1,11 +1,8 @@
 # Predictive Maintenance Classification
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-modeling-F7931E?logo=scikit-learn&logoColor=white)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-reproducible%20analysis-F37626?logo=jupyter&logoColor=white)
-
 ![Status](https://img.shields.io/badge/status-research%20prototype-2E7D32)
 
 An end-to-end machine learning classification for detecting industrial machine failures and classifying their likely failure mode from operating-condition and sensor data.
