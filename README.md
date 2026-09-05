@@ -1,8 +1,11 @@
 # Predictive Maintenance Classification
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-modeling-F7931E?logo=scikit-learn&logoColor=white)
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-reproducible%20analysis-F37626?logo=jupyter&logoColor=white)
+
 ![Status](https://img.shields.io/badge/status-research%20prototype-2E7D32)
 
 An end-to-end machine learning classification for detecting industrial machine failures and classifying their likely failure mode from operating-condition and sensor data.
@@ -19,7 +22,7 @@ It combines exploratory data analysis, preprocessing, imbalance-conscious modeli
 | Prediction tasks | Binary failure detection and multi-class failure-type classification |
 | Failure types | Tool wear, heat dissipation, power, overstrain, and random failure |
 | Validation strategy | Stratified 80/20 split and 10-fold stratified cross-validation |
-| Binary result | Random Forest: **0.98 accuracy**, **0.72 failure recall** |
+| Binary result | Random Forest: **0.88 accuracy**, **0.72 failure recall** |
 | Multi-class result | Random Forest: **0.8565 10-fold macro F1** |
 | Reported macro ROC-AUC | **0.988** in the notebook's multi-class ROC figure |
 
